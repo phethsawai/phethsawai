@@ -2,7 +2,7 @@ function sendTelegramNotify() {
   var token = '7918251682:AAGNtWYMx0U114MFV9TcCFc4NsDHV7K24ZM'; // ใส่ Telegram bot token
   var chatId = '8055798952'; // ใส่ chat ID
 
-  var message = 'ข้อความที่คุณต้องการส่ง'; // ข้อความที่จะส่ง
+  var message = 'AC MAILFAIL'; // ข้อความที่จะส่ง
 
   var telegramUrl = 'https://api.telegram.org/bot' + token + '/sendMessage';
 
